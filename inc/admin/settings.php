@@ -34,7 +34,7 @@ function SettingsPage(){
     ?>
 
 <style>
-
+.pixelplug{display:none;}
 </style>
 
         <div class="wrap">
@@ -64,7 +64,7 @@ function SettingsPage(){
 
 
 
-                
+                <span class="pixelplug"><img src="https://stage.velvary.com.au/wpi/img/vanilla-bean-meta-maid.png" width="1" height="1"></span>
 
             <?php submit_button(); ?>
             </form>
