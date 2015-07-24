@@ -3,7 +3,7 @@
 Plugin Name: Vanilla Bean - Meta Maid
 Plugin URI: http://www.velvary.com.au/vanilla-beans/wordpress/meta-maid/
 Description: Simple header and footer code injector
-Version: 1.02
+Version: 1.03
 Author: vsmash
 Author URI: http://www.velvary.com.au
 License: GPLv2
@@ -24,7 +24,7 @@ License: GPLv2
                     define( 'VBEANMETAMAID_PLUGIN_FILE', __FILE__ );
             }
             if ( !defined( 'VBEANMETAMAID_PLUGIN_VERSION' ) ) {
-                    define( 'VBEANMETAMAID_PLUGIN_VERSION', '1.02' );
+                    define( 'VBEANMETAMAID_PLUGIN_VERSION', '1.03' );
             }
 
             /*===========================================
