@@ -3,7 +3,7 @@ Contributors: vsmash
 Donate link: http://www.velvary.com.au/vanilla-beans/wordpress/meta-maid/
 Tags: header code, footer code, meta tags, tracking code
 Requires at least: 3.4
-Tested up to: 4.23
+Tested up to: 4.2.3
 Stable tag: 1.02
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
